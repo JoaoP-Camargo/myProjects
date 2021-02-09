@@ -33,7 +33,8 @@ This document is a simple explanation of how the presentation was designed.
 
 ## Technologies
 Project is created with:
-* MySQL version: 8.0
+* MySQL Workbench version: 8.0 CE
+* DBeaver version: 7.3.4 CE
 * Google Sheets
 * Google Slides
 	
